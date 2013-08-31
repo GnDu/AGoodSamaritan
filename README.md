@@ -1,4 +1,4 @@
 AGoodSamaritan
 ==============
 
-Data Structure associated with CS2010R
+Data Structure and algorithm associated Steven Halim's Competitive Programming book. 
